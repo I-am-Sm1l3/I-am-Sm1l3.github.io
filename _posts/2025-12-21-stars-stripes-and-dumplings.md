@@ -54,7 +54,7 @@ Searching **Celestial Ave, Melbourne** on Google Maps showed multiple locations.
 
 Using **Street View**, the image was matched visually.
 
-![Google Street View comparison](/assets/img/posts/stars-stripes-dumplings/google.png){: .shadow }
+![Google Street View comparison](/assets/img/posts/stars-stripes-dumplings/google.webp){: .shadow }
 
 ---
 
