@@ -50,17 +50,17 @@ Zooming into one image revealed text on a wall:
 
 ## Step 4: Geolocation via Google Maps
 
-Searching **Celestial Ave, Melbourne** on Google Maps showed multiple locations.
+Searching **Celestial Ave, Melbourne** on Google Maps showed multiple restaurants.
 
 Using **Street View**, the image was matched visually.
 
-![Google Street View comparison](/assets/img/posts/stars-stripes-dumplings/google.webp){: .shadow }
+![Google Street View ](/assets/img/posts/stars-stripes-dumplings/google.webp){: .shadow }
 
 ---
 
-## Step 5: Final Confirmation
+## Step 5: Last Step
 
-The restaurant matched perfectly with the Facebook image.
+The Crane restaurant matched perfectly with the Facebook image.
 
 ![The Crane restaurant](/assets/img/posts/stars-stripes-dumplings/6.png){: .shadow }
 
