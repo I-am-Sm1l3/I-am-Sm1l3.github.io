@@ -1,3 +1,10 @@
+---
+layout: page
+title: About
+icon: fas fa-info-circle
+order: 4
+---
+
 Hi, I’m **sm1l3**, a 17yo cybersecurity enthusiast from **Pakistan**.
 
 I occasionally participate in **Capture The Flag (CTF)** competitions and regularly explore **Hack The Box**, **Tryhackme**, **HackSmarter Labs** and more.
