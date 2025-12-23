@@ -30,11 +30,8 @@ social:
   name: Sm1l3
   links:
     - https://github.com/I-am-Sm1l3
-    - https://www.linkedin.com/in/Sm1l3
 
-# =========================================================
-# Disable RSS / Feed completely
-# =========================================================
+
 
 feed:
   disable: true
@@ -86,7 +83,7 @@ pageviews:
 # =========================================================
 
 pwa:
-  enabled: true
+  enabled: false
   cache:
     enabled: true
     deny_paths: []
