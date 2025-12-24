@@ -2,7 +2,6 @@
 layout: post
 title: "The Missing Half"
 date: 2025-12-24 13:22:36 GMT+5
-author: Sm1l3
 categories: [Forensics, Steganography]
 tags: [disk image, dd, strings]
 img_path: /assets/img/posts/the-missing-half/
