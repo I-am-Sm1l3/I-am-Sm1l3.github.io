@@ -3,7 +3,7 @@ layout: post
 title: "The Missing Half"
 date: 2025-12-24 13:22:36 GMT+5
 categories: [Forensics, Steganography]
-tags: [disk image, dd, strings]
+tags: [disk image, dd, strings, auctf]
 img_path: /assets/img/posts/the-missing-half/
 ---
 
