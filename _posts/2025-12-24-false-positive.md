@@ -2,8 +2,8 @@
 layout: post
 title: "False Positive"
 date: 2025-12-24 20:04:01 GMT+5
-categories: [Forensics, Steganography, auctf]
-tags: [exiftool, base64, steghide, disk image, strings, fls, icat, openssl, gzip, ROT12]
+categories: [Forensics, Steganography]
+tags: [exiftool, base64, steghide, disk image, auctf, strings, fls, icat, openssl, gzip, ROT12]
 img_path: /assets/img/posts/false-positive/
 ---
 
